@@ -7,12 +7,18 @@ theme = "hugo-developer-portfolio" # The theme, don't change this
 [params.plugins]
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.13.6/dist/css/uikit.min.css"
+  #URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  # URL = "/css/css_uikit.min.css"
   # JS Plugins
   [[params.plugins.js]]
-  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.13.6/dist/js/uikit.min.js"
+  # URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  # URL = "/js/js_uikit.min.js"
   [[params.plugins.js]]
-  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.13.6/dist/js/uikit-icons.min.js"
+  # URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+  # URL = "/js/js_uikit-icons.min.js"
 # navigation
 [menu]
   [[menu.main]]

@@ -2,7 +2,7 @@
 categories = ["summer-school"]
 coders = []
 date = 2021-07-26T12:00:00Z
-description = "DK-CIM + DOCC Winter School"
+description = "DK-CIM + DOCC Summer School"
 github = ""
 image = "/images/education/uibk.jpeg"
 title = "Modelling simulation and Physical phenomena of complex continua"
