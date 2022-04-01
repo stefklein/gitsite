@@ -3,7 +3,7 @@ title: "About"
 date: 2022-03-31T12:14:34+06:00
 description: "This is meta description."
 author : "Stefan Kis"
-authorImage : "images/about/profile.jpg"
+authorImage : /images/about/profile.jpg
 ---
 
 Hello. I am Stefan, a PhD student in astrophysics at the University of Innsbruck. I love doing research work. I specialize in computational physics, specifically in computational fluid dynamics (CFD). I am experienced in dealing with MHD and transport equations.
