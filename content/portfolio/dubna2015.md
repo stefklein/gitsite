@@ -4,7 +4,7 @@ coders = []
 date = 2015-09-01T12:00:00Z
 description = "JINR Summer School"
 github = ""
-image = /images/portfolio/JINR.jpeg
+image = "/images/portfolio/JINR.jpeg"
 title = "Small angle neutron scattering"
 type = "post"
 
