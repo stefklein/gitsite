@@ -1,0 +1,104 @@
+banner:
+  title: Hello. I am Stefan
+
+social:
+  twitter: "amadeus_at"
+  linkedin: stefan-tiberiu-kis-90894114b
+  github: stefklein
+  gitlab: "s.kis"
+  gmail: stefklein.at
+  
+about:
+  enable: true
+  content: Last year PhD student in astrophysics at Universität Innsbruck
+  button:
+    btnText: Find out more
+    URL: "/about"
+    
+skill:
+  enable: true
+  item:
+    - title: C/C++
+      logo: /images/skills/cpp.png
+      description: OOP. Specialized in writing codes for CFD (computational fluid dynamics) problems. Have some experience with PETSc. MPI and CUDA parallelization.
+      
+    - title: Python
+      logo: /images/skills/python.svg
+      description: Data analysis. I mainly use python to view data as well as perform various analysis on data using libraries (i.e. scipy, pandas, etc.).
+      
+    - title: Linux/UNIX
+      logo: /images/skills/linux.png
+      description: Coding done in either macOS or Ubuntu. Shell scripting automatization enthusiast. I also use Arch.
+      
+    - title: Mathematica
+      logo: /images/skills/mathematica.png
+      description: Experienced with the Mathematica software/language.
+      
+    - title: Git
+      logo: /images/skills/git.png
+      description: Experienced with git based development. Mainly GitLab and GitHub.
+      
+    - title: JIRA
+      logo: /images/skills/jira.svg
+      description: Experienced with JIRA for project management (scrum/kanban). Utilising it for my PhD project.
+      
+    - title: Docker
+      logo: /images/skills/docker.svg
+      description: Some experience with docker container implementation.
+      
+    - title: CAD
+      logo: /images/skills/cad.png
+      description: Work experience with Cimatron and Creo/PRO Engineer. Used to modify and create mould designs using Cimatron and sometimes Creo. Also engineering drawings.
+
+portfolio:
+  enable: false
+  item:
+    - title: Implicit-Explicit Finite-Difference Lattice Boltzmann Model with Varying Adiabatic Index
+      image: https://cdn.discordapp.com/attachments/210882886121816065/958851045696626688/unknown.png
+      # image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      description: The perfect fluid behaviour can be obtained from the Boltzmann equation in the limit of vanishing Knudsen number. By treating the collision term in an implicit manner, the implicit-explicit (IMEX) time stepping scheme allows this limit to be achieved at finite values of the time step. We consider the 9th order monotonicity-preserving (MP-9) scheme to implement the advection, which is treated explicitly in the IMEX approach. We reduce the computational costs using reduced distribution functions, which also permits the adiabatic index to be varied. We validate the capabilities of our model by considering the propagation of shock waves in one-dimensional and two-dimensional setups.
+      link: "10.1063/5.0001069"
+      tools:
+        - c
+
+experience:
+  enable: true
+
+  item:
+    - logo: /images/experiences/uibk.jpeg
+      title: Researcher PhD Student
+      company: Institute for Astro-and Particle Physics, University of Innsbruck
+      duration: February 2020 - ongoing
+  
+    - logo: /images/experiences/edinburgh.png
+      title: Visiting researcher
+      company: Institute for Multiscale Thermofluids, University of Edinburgh
+      duration: November 2019
+      
+    - logo: /images/experiences/uvt.jpeg
+      title: Research Assistant
+      company: Department of Physics, West University of Timisoara
+      duration: February 2019 - February 2020
+      
+    - logo: /images/experiences/inteliform.jpeg
+      title: Mechanical Project Engineer
+      company: Inteliform
+      duration: 2018 - February 2019
+
+education:
+  enable: true
+  item:
+    - title: PhD in Astrophysics
+      year: 2020 - ongoing
+      academy: University of Innsbruck
+      image: /images/education/uibk.jpeg
+
+    - title: MSc in Astrophysics, Elementary Particles and Computational Physics
+      year: 2017 - 2019
+      academy: West University of Timisoara
+      image: /images/education/uvt.jpeg
+
+    - title: BSc in Theoretical Physics
+      year: 2014 - 2017
+      academy: West University of Timisoara
+      image: /images/education/uvt.jpeg

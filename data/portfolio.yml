@@ -1,0 +1,14 @@
+# categories = ["conference", "paper"]
+
+filter:
+  - label: Publications
+    value: paper
+
+  - label: Conferences
+    value: conference
+
+  - label: Schools
+    value: summer-school
+
+  - label: Workshops
+    value: workshop
