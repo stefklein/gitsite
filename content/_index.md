@@ -5,7 +5,5 @@ publishdate: 2018-11-23T15:26:15Z
 author: Stefan Kis
 title: Stefan Kis' Website
 description: PhD student in astrophysics
-images:
-- home-cover.png
 ---
 
