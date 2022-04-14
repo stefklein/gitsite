@@ -1,7 +1,7 @@
 +++
 categories = ["summer-school"]
 coders = []
-date = 2019-09-01T12:00:00Z
+date = 2021-10-04T12:00:00Z
 description = "PRACE Autumn School"
 github = ""
 image = "/images/portfolio/prace.png"
