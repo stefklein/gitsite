@@ -6,11 +6,11 @@ author : "Stefan Kis"
 authorImage : /images/about/profile.jpg
 ---
 
-Hello. I am Stefan, a PhD student in astrophysics at the University of Innsbruck. I love doing research work. I specialize in computational physics, specifically in computational fluid dynamics (CFD). I am experienced in dealing with MHD and transport equations.
+Hello. I am Stefan, a PhD student in astrophysics at the University of Innsbruck. I love doing research work and tinkering with software. I specialize in computational physics, specifically in computational fluid dynamics (CFD). I am experienced in dealing with partial differential equations.
 
 On physics topics, I specialize in astrophysics and a bit of theoretical (particle) physics. Main interest are in cosmic-ray transport in the galaxy, supernova core-collapse mechanisms, black hole accretion and jets. Current work pertains to continuous development of the PICARD code, a cosmic-ray propagation code.
 
-On the technical sense, I specialize in [mathematical modelling](https://www.mathscareers.org.uk/what-is-mathematical-modelling/), [numerical analysis](https://www.britannica.com/science/numerical-analysis) and [data analysis](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/datopic.html). I am currently interested in machine learning and its applications in astrophysics.
+On the technical side of things I specialize in [mathematical modelling](https://www.mathscareers.org.uk/what-is-mathematical-modelling/), [numerical analysis](https://www.britannica.com/science/numerical-analysis) and [data analysis](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/datopic.html). I am currently interested in machine learning and its applications in astrophysics.
 
 Marie Skłodowska-Curie PhD research fellow of the DOCC programme via the HORIZON2020 initiative. 
 
