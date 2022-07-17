@@ -4,7 +4,7 @@ coders = []
 date = 2022-06-19T12:00:00Z
 description = "Dobbiaco Summer School"
 github = ""
-image = ""
+image = "/images/portfolio/isapp.png"
 title = "Numerical Methods for Kinetic Equations"
 type = "post"
 
