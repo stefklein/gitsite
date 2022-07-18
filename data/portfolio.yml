@@ -12,3 +12,6 @@ filter:
 
   - label: Workshops
     value: workshop
+
+  - label: Events
+    value: events
