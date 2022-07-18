@@ -11,6 +11,7 @@ type = "events"
 +++
 ### Conference:
 [APSSPS2021](https://www.oepg.at/index.php?item=824) (OePG website)
+
 [APSSPS2021](https://www.sps.ch/events/gemeinsame-jahrestagung-2021) (SPS website)
 
 ### Main roles:
