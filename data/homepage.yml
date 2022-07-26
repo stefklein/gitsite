@@ -50,6 +50,10 @@ skill:
       logo: /images/skills/docker.svg
       description: Some experience with docker container implementation.
       
+    - title: R
+      logo: /images/skills/R_logo.png
+      description: Learnt and used R in my statistic's classes during Masters.
+    
     - title: CAD
       logo: /images/skills/cad.png
       description: Work experience with Cimatron and Creo/PRO Engineer. Used to modify and create mould designs as well as engineering drawings.
