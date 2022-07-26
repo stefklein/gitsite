@@ -19,10 +19,10 @@ Talk
 30th of May 2019, 17:15
 
 ### Project lead:
-Stefan T. Kis
+Victor E. Ambrus
 
 ### Project members:
-Victor E. Ambrus
+Stefan T. Kis (presenter)
 
 ### Session:
 TCP Session 3: TC-O12
