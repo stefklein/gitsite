@@ -24,11 +24,11 @@ skill:
       
     - title: Python
       logo: /images/skills/python.svg
-      description: Data analysis. I mainly use python to view data as well as perform various analysis on data using libraries (i.e. scipy, pandas, etc.).
+      description: Data analysis. I mainly use python to view data as well as perform various analysis on data using standard libraries (i.e. scipy, pandas, etc.).
       
     - title: Linux/UNIX
       logo: /images/skills/linux.png
-      description: Coding done in either macOS or Ubuntu. Shell scripting automation enthusiast. I also use Arch.
+      description: Coding done in either macOS or Ubuntu (though any Linux distro is doable). Shell scripting automation enthusiast.
       
     - title: Mathematica
       logo: /images/skills/mathematica.png
@@ -42,13 +42,17 @@ skill:
       logo: /images/skills/jira.svg
       description: Experienced with JIRA for project management (scrum/kanban). Utilising it for my PhD project.
       
+    - title: Julia
+      logo: /images/skills/julia.svg
+      description: Julia is highly parallelizable and fast when it comes to processing and computing. At the moment I only use it for learning Machine Learning and normal data analysis.
+    
     - title: Docker
       logo: /images/skills/docker.svg
       description: Some experience with docker container implementation.
       
     - title: CAD
       logo: /images/skills/cad.png
-      description: Work experience with Cimatron and Creo/PRO Engineer. Used to modify and create mould designs using Cimatron and sometimes Creo. Also engineering drawings.
+      description: Work experience with Cimatron and Creo/PRO Engineer. Used to modify and create mould designs as well as engineering drawings.
 
 portfolio:
   enable: false
